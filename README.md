@@ -4,7 +4,7 @@ An ornamented, sailor-like friendly typeface created by Charles Pailler.
 
 ## Specimen
 
-![Specimen](https://github.com/velvetyne/boeticher/specimen.png)
+![Specimen](https://raw.githubusercontent.com/velvetyne/boeticher/master/specimen.png)
 
 ## License
 
@@ -15,6 +15,6 @@ http://scripts.sil.org/OFL
 ## Repository Layout
 
 This font repository follows the Sample font repository based on the Unified Font Repository v2.0,
-a standard way to organize font project source files. Learn more at
-https://github.com/djrrb/Sample-Font-Repository
-https://github.com/raphaelbastide/Unified-Font-Repository
+a standard way to organize font project source files. Learn more at :
+- https://github.com/djrrb/Sample-Font-Repository
+- https://github.com/raphaelbastide/Unified-Font-Repository
